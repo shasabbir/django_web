@@ -1,3 +1,4 @@
 django_web/__pycache__
 django_web_api/__pycache__
 django_web_api/migrations
+.vscode/launch.json
